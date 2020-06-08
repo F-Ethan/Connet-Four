@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544341880 source:c:\users\shi shanxiang\documents\ece15\lab1\project_four\connect4.c
+	"connect4_functions.h"
+
+1544259941 c:\users\shi shanxiang\documents\ece15\lab1\project_four\connect4_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1544342192 source:c:\users\shi shanxiang\documents\ece15\lab1\project_four\connect4_functions.c
+	"connect4_functions.h"
+
